@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+numpy
+joblib
+country_converter
+openpyxl
+matplotlib
+seaborn
